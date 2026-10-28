@@ -2,7 +2,7 @@
 
 Port para Neovim de [Oxocarbon para VSCode](https://github.com/nyoom-engineering/oxocarbon-vscode),
 
-- Integraciones con [snacks.nvim](https://github.com/folke/snacks.nvim), [mini.nvim](https://github.com/nvim-mini/mini.nvim) y [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+- Integraciones con [snacks.nvim](https://github.com/folke/snacks.nvim) y [mini.nvim](https://github.com/nvim-mini/mini.nvim) 
 
 ## Variantes
 
